@@ -9,7 +9,7 @@
 ## 📫 Let's connect
 - Email: salilahmajdeddin@gmail.com  
 - Location: Utrecht, Netherlands  
-- LinkedIn: [[https://www.linkedin.com/in/majdeddin-salilah-59abb42ab/](https://www.linkedin.com/in/majdeddin-salilah-59abb42ab/)]  
+- LinkedIn: [https://www.linkedin.com/in/majdeddin-salilah-59abb42ab/](https://www.linkedin.com/in/majdeddin-salilah-59abb42ab/)
 - GitHub: [https://github.com/Majdeddin](https://github.com/Majdeddin)
 
 ## 🛠️ Skills
